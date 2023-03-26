@@ -1,0 +1,38 @@
+// increment by
+$i: 5;
+
+@while $i <= 100 {
+    .mt-#{$i}px {
+        margin-top: #{$i}px !important;
+    }
+
+    .mb-#{$i}px {
+        margin-bottom: #{$i}px !important;
+    }
+
+    .ms-#{$i}px {
+        margin-left: #{$i}px !important;
+    }
+
+    .me-#{$i}px {
+        margin-right: #{$i}px !important;
+    }
+
+    .pt-#{$i}px {
+        padding-top: #{$i}px !important;
+    }
+
+    .pb-#{$i}px {
+        padding-bottom: #{$i}px !important;
+    }
+
+    .ps-#{$i}px {
+        padding-left: #{$i}px !important;
+    }
+
+    .pe-#{$i}px {
+        padding-right: #{$i}px !important;
+    }
+
+    $i: 5+$i;
+}
