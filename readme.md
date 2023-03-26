@@ -1,5 +1,7 @@
 # Gulp Script for Compiling Sass and Compressing Images
 
+I created this because I couldn't find a tested and working Gulp script for my needs. Works great.
+
 This Gulp script automates the compilation of Sass files and the compression of images. It employs various Gulp plugins to achieve these tasks, such as `gulp-sass`, `gulp-clean-css`, `gulp-sourcemaps`, `gulp-imagemin`, `gulp-rename`, `gulp-plumber`, `gulp-autoprefixer`, and `browser-sync`.
 
 ## Requirements
