@@ -1,4 +1,4 @@
-# Gulp Script for Compiling Sass and Compressing Images with Live Reload
+# Gulp Script: Sass, Compress Images, Live Reload
 
 I created this because I couldn't find a tested and working Gulp script for my needs. Works great.
 
