@@ -12,7 +12,7 @@ This script requires Node.js and Gulp to be installed on your system. If you don
 
 ## Installation
 
-1. Clone the repository to your local machine: `git clone git@github.com:hilyin/gulp-4.git`
+1. Clone the repository to your local machine: `git clone git@github.com:hilyin/gulp4-sass-compress-images-live-reload.git`
 2. Navigate to the root of the project and install the dependencies: `npm install`
 
 ## Usage
