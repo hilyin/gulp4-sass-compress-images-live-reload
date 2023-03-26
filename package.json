@@ -1,5 +1,5 @@
 {
-  "name": "gulp-refresh",
+  "name": "gulp4-sass-compress-images-live-reload",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
